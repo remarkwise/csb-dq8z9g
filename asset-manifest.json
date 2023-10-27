@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://remarkwise.github.io/csb-dq8z9g/static/css/main.1b9359a3.chunk.css",
+    "main.js": "https://remarkwise.github.io/csb-dq8z9g/static/js/main.8d4f1a91.chunk.js",
+    "main.js.map": "https://remarkwise.github.io/csb-dq8z9g/static/js/main.8d4f1a91.chunk.js.map",
+    "runtime-main.js": "https://remarkwise.github.io/csb-dq8z9g/static/js/runtime-main.65165a6b.js",
+    "runtime-main.js.map": "https://remarkwise.github.io/csb-dq8z9g/static/js/runtime-main.65165a6b.js.map",
+    "static/js/2.4a1b303e.chunk.js": "https://remarkwise.github.io/csb-dq8z9g/static/js/2.4a1b303e.chunk.js",
+    "static/js/2.4a1b303e.chunk.js.map": "https://remarkwise.github.io/csb-dq8z9g/static/js/2.4a1b303e.chunk.js.map",
+    "index.html": "https://remarkwise.github.io/csb-dq8z9g/index.html",
+    "static/css/main.1b9359a3.chunk.css.map": "https://remarkwise.github.io/csb-dq8z9g/static/css/main.1b9359a3.chunk.css.map",
+    "static/js/2.4a1b303e.chunk.js.LICENSE.txt": "https://remarkwise.github.io/csb-dq8z9g/static/js/2.4a1b303e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.65165a6b.js",
+    "static/js/2.4a1b303e.chunk.js",
+    "static/css/main.1b9359a3.chunk.css",
+    "static/js/main.8d4f1a91.chunk.js"
+  ]
+}
